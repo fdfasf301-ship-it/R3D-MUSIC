@@ -1,4 +1,5 @@
 {
+  "start": "node index.js"
   "name": "new-folder-(61)",
   "version": "1.0.0",
   "main": "index.js",
